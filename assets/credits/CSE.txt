@@ -1,0 +1,73 @@
+15UCS107	Computer Programming	3
+15UCS109	Computer Programming Laboratory	1
+15UCS111	Engineering Fundamentals Laboratory	1
+15UCY105	Applied Chemistry	3
+15UEN101	Technical English	2
+15UGS112	Basic Sciences Laboratory - I	1
+15UMA102	Engineering Mathematics - I	4
+15UME108	Engineering Graphics	4
+15UPH103	Engineering Physics	3
+
+15UCS208	Digital Principles and System Design	3
+15UCS209	Programming and Data Structures	3
+15UCS211	Programming and Data Structures Laboratory	1
+15UCY207	Environmental Science	3
+15UEN201	Business English and Presentation Skills	3
+15UGS210	Basic Sciences Laboratory - II	1
+15UMA202	Engineering Mathematics - II	4
+15UPH205	Semiconductor Physics and Opto Electronics	3
+
+15UMA322	Probability, Statistics and Queueing Systems	4
+15UCS302	Data Structures	3
+15UCS303	Computer Organization and Architecture	3
+15UCS304	Object Oriented Programming with C++	3
+15UIT305	Operating Systems	3
+15UCS306	Database System Concepts	3
+15UCS307	Object Oriented Programming and Data Structures Laboratory	1
+15UCS308	Database Systems Laboratory	1
+15UIT309	Operating Systems Laboratory	1
+15UGS331	Value Education and Human Rights	0
+
+15UGS431	Reasoning and Quantitative Aptitude	1
+15UMA421	Discrete Mathematics	4
+15UCS863	PYTHON Programming	1
+15UCS407	Java Programming Laboratory	1
+15UCS408	Data Communication and Networks Laboratory	1
+15UEC429	Digital and Microprocessors Laboratory	1
+15UCS402	Java Programming	3
+15UCS403	Design and Analysis of Algorithms	3
+15UCS404	Computer Communication and Networks	3
+15UCS405	Software Engineering	3
+15UEC426	Microprocessors and Microcontrollers	3
+
+15UCS501	Internet and Web Technology	3
+15UCS502	Object Oriented Analysis and Design	2
+15UIT503	Graphics and Multimedia	3
+15UCS504	Theory of Computation	4
+15UCS902	Information Storage Management	3
+15UCS924	Mobile Computing	3
+15UCS507	Internet and Web Technology Laboratory	1
+15UCS508	Case Tools Laboratory	1
+15UIT509	Graphics and Multimedia Laboratory	1
+15UGS531	Soft Skills and Communication Laboratory	1
+15UCS862	Multimedia	1
+
+15UEE972	Electric and Hybrid Vehicles	3
+15UCS866	R Programming	1
+15UIT608	Mobile Applications Development Laboratory	1
+15UCS601	Principles of Compiler Design	3
+15UCS603	Artificial Intelligence	3
+15UIT602	Mobile Applications Development	3
+15UCS910	Building Internet of Things	3
+15UIT924	Agile Software Development	3
+15UCS607	Technical Project	3
+
+15UEC976	Sensors and Actuators	3
+15UME701	Project Management and Finance	3
+15UCS706	Cloud Computing Laboratory	1
+15UCS707	Data Science Laboratory	1
+15UGS731	Personality and Social Development	0
+15UGS732	Skills Development	0
+15UCS702	Insight into Cloud Computing	3
+15UCS703	Data Science	3
+15UCS927	Machine Learning Algorithm	3

@@ -1,0 +1,77 @@
+Course ID	Course Name	Credit	Enrolled Date
+15UCS107	Computer Programming	3.0	06-01-2020
+15UEN101	Technical English	2.0	06-01-2020
+15UMA102	Engineering Mathematics - I	4.0	06-01-2020
+15UME108	Engineering Graphics	4.0	06-01-2020
+15UPH103	Engineering Physics	3.0	06-01-2020
+15UCS109	Computer Programming Laboratory	1.0	06-01-2020
+15UGS112	Basic Sciences Laboratory - I	1.0	06-01-2020
+15UME110	Engineering Practices Laboratory	1.0	06-01-2020
+15UCY107	CHEMISTRY FOR AGRICULTURIST	3.0	06-01-2020
+	2016 - 17 EVEN 	2 - (8 Courses) 	
+Course ID	Course Name	Credit	Enrolled Date
+15UEE208	Basic Electrical and Electronics Engineering	3.0	06-01-2020
+15UPH207	Physics for Agricultural Engineering	3.0	06-01-2020
+15UEN201	Business English and Presentation Skills	3.0	06-01-2020
+15UAG204	Principles of Agricultural Engineering	3.0	06-01-2020
+15UCY207	Environmental Science	3.0	06-01-2020
+15UGS210	Basic Sciences Laboratory - II	1.0	06-01-2020
+15UAG206	Agricultural Engineering Practices Lab	2.0	06-01-2020
+15UMA202	Engineering Mathematics - II	4.0	06-01-2020
+	2017 - 18 ODD 	3 - (9 Courses) 	
+Course ID	Course Name	Credit	Enrolled Date
+15UMA321	Transforms and Partial Differential Equations	4.0	06-01-2020
+15UAG302	Unit Operations in Agricultural Processing	3.0	06-01-2020
+15UAG303	Fundamentals of Engineering Mechanics	3.0	06-01-2020
+15UAG304	Fluid Mechanics and Hydraulics	4.0	06-01-2020
+15UAG305	Fundamentals of Theory of Machines	3.0	06-01-2020
+15UAG306	Principles and Practices of Crop Production	3.0	06-01-2020
+15UAG307	Crop Husbandry Laboratory	2.0	06-01-2020
+15UAG308	Fluid Mechanics Laboratory	2.0	06-01-2020
+15UGS331	Value Education and Human Rights	.0	06-01-2020
+	2017 - 18 EVEN 	4 - (9 Courses) 	
+Course ID	Course Name	Credit	Enrolled Date
+15UGS431	Reasoning and Quantitative Aptitude	1.0	06-01-2020
+15UMA425	Probability and Statistics	4.0	06-01-2020
+15UAG402	Post Harvest Technology	3.0	06-01-2020
+15UAG403	Farm Tractors	3.0	06-01-2020
+15UAG404	Soil and Water Conservation Engineering	3.0	06-01-2020
+15UAG405	Fundamentals of Thermodynamics	4.0	06-01-2020
+15UAG407	Surveying Laboratory	2.0	06-01-2020
+15UAG408	Tractors and Farm Engines Laboratory	2.0	06-01-2020
+15UAG406	Surveying for Agriculture	3.0	06-01-2020
+	2018 - 19 ODD 	5 - (10 Courses) 	
+Course ID	Course Name	Credit	Enrolled Date
+15UAG501	Irrigation and Drainage Engineering	3.0	06-01-2020
+15UAG502	Tillage and Sowing Implements	3.0	06-01-2020
+15UAG503	Plant Protection and Harvesting Equipments	3.0	06-01-2020
+15UAG504	Heat and Mass Transfer for Agriculture Engineers	3.0	06-01-2020
+15UAG901	Refrigeration and Air-Conditioning for Agriculture Engineers	3.0	06-01-2020
+15UAG902	Storage and Packaging Technology	3.0	06-01-2020
+15UAG507	Tillage and Sowing Equipments Laboratory	2.0	06-01-2020
+15UAG508	Plant Protection and Harvesting Equipments Laboratory	2.0	06-01-2020
+15UGS531	Soft Skills and Communication Laboratory	1.0	06-01-2020
+15UAG863	Vermicompost Technology	1.0	06-01-2020
+	2018 - 19 EVEN 	6 - (9 Courses) 	
+Course ID	Course Name	Credit	Enrolled Date
+15UAG601	Solar and Wind Energy Engineering	3.0	06-01-2020
+15UAG602	Hydrology and Water Resources Engineering	3.0	06-01-2020
+15UAG603	Design of Agricultural Machinery	4.0	06-01-2020
+15UAG922	Ground and Well Water Engineering	3.0	06-01-2020
+15UAG921	Bio and ThermoChemical Conversion of Biomass	3.0	06-01-2020
+15UAG862	Mushroom Cultivation	1.0	06-01-2020
+15UAG607	CAD for Agricultural Engineering	2.0	06-01-2020
+15UAG608	Innovative and Creative Project	2.0	06-01-2020
+15UIT978	Website Designing	3.0	06-01-2020
+	2019 - 20 ODD 	7 - (10 Courses) 	
+Course ID	Course Name	Credit	Enrolled Date
+15UAG701	Bio Energy Resource Technology	3.0	06-01-2020
+15UAG702	Dairy and Food Engineering	3.0	06-01-2020
+15UAG703	Farm Management and Finance	3.0	06-01-2020
+15UAG905	Micro Irrigation	3.0	06-01-2020
+15UAG867	Energy Audit and Management	1.0	06-01-2020
+15UAG706	Bio Energy Laboratory	2.0	06-01-2020
+15UAG707	Post Harvest and Food Process Engineering Laboratory	2.0	06-01-2020
+15UAG708	Industrial Training	2.0	06-01-2020
+15UCE974	Disaster Management	3.0	06-01-2020
+15U3N062	Soil Science and Technology - NPTEL	3.0	06-01-2020

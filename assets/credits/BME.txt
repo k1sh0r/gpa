@@ -1,0 +1,71 @@
+1	15UEN101	Technical English	2.0
+1	15UMA102	Engineering Mathematics - I	4.0
+1	15UPH103	Engineering Physics	3.0
+1	15UCY105	Applied Chemistry	3.0
+1	15UCS107	Computer Programming	3.0
+1	15UME108	Engineering Graphics	4.0
+1	15UCS109	Computer Programming Laboratory	1.0
+1	15UGS112	Basic Sciences Laboratory - I	1.0
+1	15UME110	Engineering Practices Laboratory	1.0
+2	15UEN201	Business English and Presentation Skills	3.0
+2	15UMA202	Engineering Mathematics - II	4.0
+2	15UPH204	Solid State Physics	3.0
+2	15UCY207	Environmental Science	3.0
+2	15UBM208	ELECTRICAL CIRCUITS ANALYSIS	3.0
+2	15UBM209	SENSORS AND MEASUREMENT TECHNIQUES	3.0
+2	15UGS210	Basic Sciences Laboratory - II	1.0
+2	15UBM211	ELECTRICAL CIRCUITS AND TRANSDUCER 
+3	15UBM302	Human Anatomy and Physiology	3.0
+3	15UBM303	Biochemistry	3.0
+3	15UBM304	Biomedical Instruments	3.0
+3	15UBM305	Semiconductor Devices and Circuits	3.0
+3	15UMA321	Transforms and Partial Differential Equations	4.0
+3	15UBM307	Semiconductor Devices and Circuits Laboratory	1.0
+3	15UBM308	Biochemistry Laboratory	1.0
+3	PH	Placement Hour	.0
+3	LH	Library Hours	.0
+3	15UGS331	Value Education and Human Rights	.0
+3	15UIT327	Object Oriented Programming and Data Structures	3.0
+3	15UIT328	Object Oriented Programming and Data Structures Laboratory	1.0
+3	15UBM861	Introduction to MATLAB	1.0
+4	15UMA424	Probability and Random Processes	4.0
+4	15UBM401	Analog and Digital Integrated Circuits	3.0
+4	15UBM403	Medical Physics	3.0
+4	15UBM404	Principles of Signals and Systems	3.0
+4	15UBM405	Pathology and Microbiology	3.0
+4	15UBM406	Diagnostic and Therapeutic Equipments-I	3.0
+4	15UBM407	Analog and Digital Integrated Circuits Laboratory	1.0
+4	15UBM408	Pathology and Microbiology Laboratory	1.0
+4	15UGS431	Reasoning and Quantitative Aptitude	1.0
+4	15UBM865	Medical Coding	1.0
+5	15UBM501	Microprocessor and Controller	3.0
+5	15UBM502	Diagnostic and Therapeutic Equipments II	3.0
+5	15UBM503	Bio Control System	4.0
+5	15UBM504	Principles of Digital Signal Processing	3.0
+5	15UBM902	Clinical Engineering	3.0
+5	15UBM920	Cancer Biology	3.0
+5	15UBM507	Microprocessor and Controller Laboratory	1.0
+5	15UBM508	Signal Processing Techniques Laboratory	1.0
+5	15UBM509	Diagnostic and Therapeutic Equipments Laboratory	1.0
+5	15U1T001	Internship-I	1.0
+5	15UBM866	Multimedical Equipments Operating Skills Laboratory	1.0
+6	15UEC973	Embedded Systems and Programming	3.0
+6	15UBM601	Medical Imaging Equipments	3.0
+6	15UBM602	Image Processing Techniques	3.0
+6	15UBM603	Biomechanics	3.0
+6	15UBM904	Forensic Science	3.0
+6	15UBM607	Image Processing Techniques Laboratory	1.0
+6	15UBM608	Technical Project	3.0
+6	15UGS531	Soft Skills and Communication Laboratory	1.0
+6	15UBM867	Medical Science	1.0
+6	15UBM914	Telemedicine	3.0
+7	15UCS976	Internet of Things	3.0
+7	15UBM869	Artificial Intelligence in Healthcare	1.0
+7	15UBM701	Hospital Management	3.0
+7	15UBM702	Human Assist Devices	3.0
+7	15UBM703	Neural Networks and Pattern Recognition	3.0
+7	15UBM915	Rehabilitation Engineering	3.0
+7	15UBM706	Hospital Training	1.0
+7	15UBM707	Project Design Laboratory	1.0
+7	15UGS731	Personality and Social Development	.0
+7	15UGS732	Skills Development	.0

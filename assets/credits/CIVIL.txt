@@ -1,0 +1,78 @@
+Course ID	Course Name	Credit	Enrolled Date
+15UCS107	Computer Programming	3	23-04-2019
+15UCS109	Computer Programming Laboratory	1	23-04-2019
+15UCY106	Chemistry for Civil Engineers	3	23-04-2019
+15UEN101	Technical English	2	23-04-2019
+15UGS112	Basic Sciences Laboratory - I	1	23-04-2019
+15UMA102	Engineering Mathematics - I	4	23-04-2019
+15UME108	Engineering Graphics	4	23-04-2019
+15UME110	Engineering Practices Laboratory	1	23-04-2019
+15UPH103	Engineering Physics	3	23-04-2019
+	2016 - 17 EVEN 	2 - (8 Courses) 	
+Course ID	Course Name	Credit	Enrolled Date
+15UPH206	Building Physics	3	23-04-2019
+15UCY207	Environmental Science	3	23-04-2019
+15UMA202	Engineering Mathematics - II	4	23-04-2019
+15UEE208	Basic Electrical and Electronics Engineering	3	23-04-2019
+15UCE206	Basic Engineering Mechanics	3	23-04-2019
+15UGS210	Basic Sciences Laboratory - II	1	23-04-2019
+15UCE208	Computer Aided Building Drawing Laboratory	1	23-04-2019
+15UEN201	Business English and Presentation Skills	3	23-04-2019
+	2017 - 18 ODD 	3 - (9 Courses) 	
+Course ID	Course Name	Credit	Enrolled Date
+15UCE302	Engineering Geology and Construction Materials	3	23-04-2019
+15UCE303	Mechanics of Solids - I	4	23-04-2019
+15UCE304	Highway and Railway Engineering	3	23-04-2019
+15UCE305	Fluid Mechanics	3	23-04-2019
+15UCE306	Surveying	3	23-04-2019
+15UCE307	Strength of Materials Laboratory	1	23-04-2019
+15UCE308	Survey Practical-I	1	23-04-2019
+15UGS331	Value Education and Human Rights	0	23-04-2019
+15UMA321	Transforms and Partial Differential Equations	4	23-04-2019
+	2017 - 18 EVEN 	4 - (9 Courses) 	
+Course ID	Course Name	Credit	Enrolled Date
+15UGS431	Reasoning and Quantitative Aptitude	1	23-04-2019
+15UMA422	Numerical Methods	4	23-04-2019
+15UCE407	Survey Practical II	1	23-04-2019
+15UCE408	Hydraulic Engineering Laboratory	1	23-04-2019
+15UCE402	Construction Techniques,Equipments and Practices	3	23-04-2019
+15UCE403	Mechanics of Solids - II	4	23-04-2019
+15UCE404	Water Resources and Irrigation Engineering	3	23-04-2019
+15UCE405	Soil Mechanics	3	23-04-2019
+15UCE406	Applied Hydraulic Engineering	4	23-04-2019
+	2018 - 19 ODD 	5 - (9 Courses) 	
+Course ID	Course Name	Credit	Enrolled Date
+15UCE863	Water Conservation Techniques	1	23-04-2019
+15UCE507	Soil Mechanics Laboratory	1	23-04-2019
+15UCE508	Environmental Engineering Laboratory	1	23-04-2019
+15UCE501	Structural Analysis - I	4	23-04-2019
+15UCE502	Foundation Engineering	3	23-04-2019
+15UCE503	Design of Reinforced Concrete Elements	4	23-04-2019
+15UCE504	Environmental Engineering	3	23-04-2019
+15UCE904	Town Planning And Architecture	3	23-04-2019
+15UCE905	Traffic Engineering And Management	3	23-04-2019
+	2018 - 19 EVEN 	6 - (10 Courses) 	
+Course ID	Course Name	Credit	Enrolled Date
+15UGR972	German for Engineers	3	23-04-2019
+15UCE861	Green Building Concepts	1	23-04-2019
+15U1T001	Internship-I	1	23-04-2019
+15UGS531	Soft Skills and Communication Laboratory	1	23-04-2019
+15UCE601	Structural Analysis - II	4	23-04-2019
+15UCE602	Construction Management and Finance	3	23-04-2019
+15UCE603	Design of Steel Structures	4	23-04-2019
+15UCE901	Hydrology	3	23-04-2019
+15UCE923	Prestressed Concrete Structures	3	23-04-2019
+15UCE608	Technical Project	3	23-04-2019
+	2019 - 20 ODD 	7 - (11 Courses) 	
+Course ID	Course Name	Credit	Enrolled Date
+15UGR973	Advanced German for Engineers	3	23-04-2019
+15UCE865	CONSTRUCTION SAFETY AND MANAGEMENT	1	23-04-2019
+15UCE872	Special Concretes	1	23-04-2019
+15UCE706	Concrete and Highway Engineering Laboratory	1	23-04-2019
+15UCE707	Software Application Laboratory	1	23-04-2019
+15UGS731	Personality and Social Development	0	23-04-2019
+15UGS732	Skills Development	0	23-04-2019
+15UCE701	Design of Reinforced Concrete and Brick Masonry Structures	3	23-04-2019
+15UCE702	Estimation Costing and Valuation Engineering	3	23-04-2019
+15UCE703	Structural Dynamics and Earthquake Engineering	4	23-04-2019
+15UCE902	Concrete Technology	3	23-04-2019

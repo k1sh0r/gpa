@@ -1,0 +1,83 @@
+Course ID	Course Name	Credit	Enrolled Date
+15UCS107	Computer Programming	3	23-04-2019
+15UCS109	Computer Programming Laboratory	1	23-04-2019
+15UCY104	Engineering Chemistry	3	23-04-2019
+15UEN101	Technical English	2	23-04-2019
+15UGS112	Basic Sciences Laboratory - I	1	23-04-2019
+15UMA102	Engineering Mathematics - I	4	23-04-2019
+15UME108	Engineering Graphics	4	23-04-2019
+15UME110	Engineering Practices Laboratory	1	23-04-2019
+15UPH103	Engineering Physics	3	23-04-2019
+	2016 - 17 EVEN 	2 - (8 Courses) 	
+Course ID	Course Name	Credit	Enrolled Date
+15UCY207	Environmental Science	3	23-04-2019
+15UEE208	Basic Electrical and Electronics Engineering	3	23-04-2019
+15UEN201	Business English and Presentation Skills	3	23-04-2019
+15UGS210	Basic Sciences Laboratory - II	1	23-04-2019
+15UMA202	Engineering Mathematics - II	4	23-04-2019
+15UME208	Basic Civil and Mechanical Engineering	3	23-04-2019
+15UME211	Computer Aided Drafting and Modeling Laboratory	1	23-04-2019
+15UPH203	Material Science	3	23-04-2019
+	2017 - 18 ODD 	3 - (10 Courses) 	
+Course ID	Course Name	Credit	Enrolled Date
+15UEE323	Electrical Machines	4	23-04-2019
+15UGS331	Value Education and Human Rights	0	23-04-2019
+15UMA321	Transforms and Partial Differential Equations	4	23-04-2019
+15UME302	Manufacturing Technology-I	3	23-04-2019
+15UME303	Engineering Thermodynamics	3	23-04-2019
+15UME304	Fluid Mechanics and Machinery	3	23-04-2019
+15UME305	Engineering Mechanics	3	23-04-2019
+15UME307	Manufacturing Technology Laboratory - I	1	23-04-2019
+15UME308	Fluid Mechanics and Machinery Laboratory	1	23-04-2019
+PH	Placement Hour	0	23-04-2019
+	2017 - 18 EVEN 	4 - (11 Courses) 	
+Course ID	Course Name	Credit	Enrolled Date
+15UMA423	Statistics and Numerical Methods	4	23-04-2019
+15UME861	Smart Materials	1	23-04-2019
+15UGS431	Reasoning and Quantitative Aptitude	1	23-04-2019
+15UME407	I.C Engine and Steam Laboratory	1	23-04-2019
+15UME408	Manufacturing Technology Laboratory - II	1	23-04-2019
+15UME409	Material Testing Laboratory	1	23-04-2019
+15UME402	Kinematics of Machinery	3	23-04-2019
+15UME403	Manufacturing Technology - II	3	23-04-2019
+15UME404	Thermal Engineering	3	23-04-2019
+15UME405	Strength of Materials	3	23-04-2019
+15UME406	Machine Drawing	3	23-04-2019
+	2018 - 19 ODD 	5 - (9 Courses) 	
+Course ID	Course Name	Credit	Enrolled Date
+15UME507	CAD/CAM Laboratory	1	23-04-2019
+15UME508	Dynamics Laboratory	1	23-04-2019
+15UME509	Metallurgy Laboratory	1	23-04-2019
+15UME501	Dynamics of Machinery	3	23-04-2019
+15UME502	Engineering Materials and Metallurgy	3	23-04-2019
+15UME503	Design of Machine Elements	3	23-04-2019
+15UME504	Operations Research	3	23-04-2019
+15UME903	Automobile Engineering	3	23-04-2019
+15UME904	Applied Hydraulics and Pneumatics	3	23-04-2019
+	2018 - 19 EVEN 	6 - (12 Courses) 	
+Course ID	Course Name	Credit	Enrolled Date
+15UCS976	Internet of Things	3	23-04-2019
+15UME865	Jigs and Fixtures	1	23-04-2019
+15UGS531	Soft Skills and Communication Laboratory	1	23-04-2019
+15UME608	Metrology and Measurements Laboratory	1	23-04-2019
+15UME609	Heat and Mass Transfer Laboratory	1	23-04-2019
+15UME601	Design of Transmission Systems	3	23-04-2019
+15UME602	Engineering Metrology and Measurements	3	23-04-2019
+15UME603	Heat and Mass Transfer	3	23-04-2019
+15UME902	Gas Dynamics and Jet Propulsion	3	23-04-2019
+15UME920	Production Planning and Control	3	23-04-2019
+15UME607	Technical Project	3	23-04-2019
+15U3N037	Fundamentals of Manufacturing Process-NPTEL	3	23-04-2019
+	2019 - 20 ODD 	7 - (11 Courses) 	
+Course ID	Course Name	Credit	Enrolled Date
+15UBM953	Forensic Science In Health Care	3	23-04-2019
+15UME863	Solar Energy	1	23-04-2019
+15UME706	Computer Aided Analysis Laboratory	1	23-04-2019
+15UME707	Mechatronics Laboratory	1	23-04-2019
+15UGS731	Personality and Social Development	0	23-04-2019
+15UGS732	Skills Development	0	23-04-2019
+15UME701	Project Management and Finance	3	23-04-2019
+15UME702	Finite Element Analysis	3	23-04-2019
+15UME703	Mechatronics	3	23-04-2019
+15UGM952	Automation in Agriculture	3	23-04-2019
+15U3R005	Design and Fabrication of Light weight Racing Car	3	23-04-2019

@@ -1,0 +1,82 @@
+ 	2016 - 17 ODD 	1 - (9 Courses) 	
+Course ID	Course Name	Credit	Enrolled Date
+15UCS107	Computer Programming	3	23-04-2019
+15UCS109	Computer Programming Laboratory	1	23-04-2019
+15UCS111	Engineering Fundamentals Laboratory	1	23-04-2019
+15UCY105	Applied Chemistry	3	23-04-2019
+15UEN101	Technical English	2	23-04-2019
+15UGS112	Basic Sciences Laboratory - I	1	23-04-2019
+15UMA102	Engineering Mathematics - I	4	23-04-2019
+15UME108	Engineering Graphics	4	23-04-2019
+15UPH103	Engineering Physics	3	23-04-2019
+	2016 - 17 EVEN 	2 - (8 Courses) 	
+Course ID	Course Name	Credit	Enrolled Date
+15UPH205	Semiconductor Physics and Opto Electronics	3	23-04-2019
+15UEC208	Electronic Devices	3	23-04-2019
+15UEC209	Basic Electronic Measurements	3	23-04-2019
+15UEC211	Electronic Devices Laboratory	1	23-04-2019
+15UEN201	Business English and Presentation Skills	3	23-04-2019
+15UMA202	Engineering Mathematics - II	4	23-04-2019
+15UCY207	Environmental Science	3	23-04-2019
+15UGS210	Basic Sciences Laboratory - II	1	23-04-2019
+	2017 - 18 ODD 	3 - (10 Courses) 	
+Course ID	Course Name	Credit	Enrolled Date
+15UMA321	Transforms and Partial Differential Equations	4	23-04-2019
+15UEC302	Digital Electronics and Design	3	23-04-2019
+15UEC303	Circuit Theory	4	23-04-2019
+15UEC304	Electronic Circuits	3	23-04-2019
+15UEC305	Analog Communication	3	23-04-2019
+15UEC307	Digital Electronics Laboratory	1	23-04-2019
+15UEC308	Circuits Laboratory	1	23-04-2019
+15UIT326	Data Structures and Algorithm Analysis	4	23-04-2019
+15UGS331	Value Education and Human Rights	0	23-04-2019
+15UEC862	PCB Design	1	23-04-2019
+	2017 - 18 EVEN 	4 - (11 Courses) 	
+Course ID	Course Name	Credit	Enrolled Date
+15UEC402	Analog Circuits	3	23-04-2019
+15UEC403	Electromagnetic Fields	3	23-04-2019
+15UEC404	Signals and Systems	4	23-04-2019
+15UEC405	Digital Communication	3	23-04-2019
+15UEC407	Analog Circuits Laboratory	1	23-04-2019
+15UEC408	Communication System Laboratory	1	23-04-2019
+15UEE426	Principles of Electrical Machines	3	23-04-2019
+15UMA424	Probability and Random Processes	4	23-04-2019
+15UGS431	Reasoning and Quantitative Aptitude	1	23-04-2019
+15UCS429	Programming with C Laboratory	1	23-04-2019
+15UEC863	Programming in PYTHON	1	23-04-2019
+	2018 - 19 ODD 	5 - (10 Courses) 	
+Course ID	Course Name	Credit	Enrolled Date
+15UEC861	PIC Embedded Programming	1	23-04-2019
+15UEC507	Digital Signal Processing Laboratory	1	23-04-2019
+15UEC508	Microprocessors, Microcontrollers and Applications Laboratory	1	23-04-2019
+15UGS531	Soft Skills and Communication Laboratory	1	23-04-2019
+15UEC501	Digital Signal Processing	4	23-04-2019
+15UEC502	Transmission Lines and Waveguides	3	23-04-2019
+15UEC503	Microprocessors, Microcontrollers and Applications	3	23-04-2019
+15UEC504	Data Communication and Networks	3	23-04-2019
+15UEC904	Linear Control Engineering	3	23-04-2019
+15UEC922	Medical Electronics	3	23-04-2019
+	2018 - 19 EVEN 	6 - (10 Courses) 	
+Course ID	Course Name	Credit	Enrolled Date
+15UCS972	Programming with Java	3	23-04-2019
+15UEC864	Android	1	23-04-2019
+15UEC607	Networks Lab	1	23-04-2019
+15UEC608	VLSI Design Laboratory	1	23-04-2019
+15UEC601	Wireless Communication Systems	3	23-04-2019
+15UEC602	Antenna and Wave Propagation	3	23-04-2019
+15UEC603	VLSI design	3	23-04-2019
+15UEC915	Internet of Things	3	23-04-2019
+15UEC916	Satellite Communication Principles and Applications	3	23-04-2019
+15UEC609	Technical Project	3	23-04-2019
+	2019 - 20 ODD 	7 - (10 Courses) 	
+Course ID	Course Name	Credit	Enrolled Date
+15UEN952	English for Competitive Exam	3	23-04-2019
+15U2C003	Data Science and Big Data Analytics	2	23-04-2019
+15UME701	Project Management and Finance	3	23-04-2019
+15U2T001	Internship/Industrial Training-I	2	23-04-2019
+15UEC706	Optical and Microwave Communication Laboratory	1	23-04-2019
+15UGS731	Personality and Social Development	0	23-04-2019
+15UGS732	Skills Development	0	23-04-2019
+15UEC703	Microwave Engineering	3	23-04-2019
+15UEC702	Optical Communication and Networks	3	23-04-2019
+15UEC907	High Speed Networks	3	23-04-2019
