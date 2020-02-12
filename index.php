@@ -14,7 +14,7 @@ include'header.php';
             <div class="navbar-header">
                 <!-- LOGO -->
                 <div class="navbar-brand-box d-flex align-items-left">
-                    <a href="home.php" class="logo">
+                    <a href="" class="logo">
                         <i class="mdi mdi-album"></i>
                         <span>
                             GPA Calculator
@@ -182,5 +182,8 @@ include'header.php';
         </div>
         <!-- Left Sidebar End -->
         </div>
+        <?php
+        include'calctable.php';
+        ?>
 </body>
 </html>
