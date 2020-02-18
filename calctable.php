@@ -1,8 +1,8 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <?php
-session_start();
 include'db.php';
 ?>
 </head>
@@ -89,27 +89,28 @@ include'db.php';
                                                 
                                             <div class="col-sm-12 col-md-3">
                                             <div class="btn-group mb-2">
-                                                <input class="btn btn-danger waves-effect waves-light" type="submit" value="Submit">
+                                                <input class="btn btn-danger waves-effect waves-light" name="submit" type="submit" value="Submit">
                                             </div>
                                             </div>
                                     </form>
 
-
-                                    <table id="basic-datatable" class="table dt-responsive nowrap">
+                                    <div class="table-responsive">
+                                    <table class="table">
                                         <thead>
                                             <tr>
                                                 <th>Subject Name</th>
-                                                <th>Subject Code</th>
+                                                <th class="mob">Subject Code</th>
                                                 <th>Credits</th>
                                                 <th>Grade</th>
-                                                <th>Semester</th>
+                                                <th class="mob">Semester</th>
                                             </tr>
                                         </thead>
                                     
                                     
                                         <tbody>
                                     <?php
-                                    
+                                    if(isset($_GET['submit']))
+                                    {
                                     $deptt=$_GET['dept'];
                                     $semm=$_GET['sem'];
                                     $result=mysqli_query($conn,"SELECT * FROM subjects");
@@ -137,7 +138,7 @@ include'db.php';
                                             
                                             
                                     echo "<tr><td>".$r[1]."</td>";
-                                    echo "<td>".$r[0]."</td>";
+                                    echo "<td class='mob'>".$r[0]."</td>";
                                     echo "<td>".$r[4]."</td>";
                                     echo "
                                                 <td><div class='btn-group mb-2'>
@@ -155,19 +156,20 @@ include'db.php';
                                                 </div>
                                             </div></td>
                                             ";
-                                    echo "<td>".$r[2]."</td></tr>";
+                                    echo "<td class='mob'>".$r[2]."</td></tr>";
                                     }
                                     if (!$result) {
                                     printf("Error: %s\n", mysqli_error($conn));
                                     exit();
                                     }
-                                
+                                }
 
                                     ?>
                                        
                                         </tbody>
 
                                     </table>
+                                </div>
                                     <input class="btn btn-danger waves-effect waves-light" type="submit" style="float: right;" value="Submit">
 
                                 </div> <!-- end card body-->
